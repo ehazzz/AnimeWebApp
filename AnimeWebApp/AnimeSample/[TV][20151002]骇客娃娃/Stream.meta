@@ -1,0 +1,44 @@
+[Info]
+Resolution=1920x1080
+AudioEncoding=flac
+VedioEncoding=x264
+AudioLanguage=Japanese
+StreamSource=BDRip
+
+
+[Publish]
+Type=TV
+Release=20151002
+Developer=Creators in Pack
+StreamProvider=VCB-Studio
+SubtitleProvider=Unknown
+
+
+[Title]
+En=Hacka Doll
+Jp=ハッカドール
+Zh=骇客娃娃
+
+
+[Episode]
+Count=13
+01=个人娱乐AI！骇客娃娃！
+02=请让我们做偶像！
+03=Hacka Doll 就是为此而生的
+04=先去洗澡吧
+05=4号可不是浪得虚名的!
+06=回忆中的「那个」
+07=黑箱
+08=感觉很像女主角
+09=能阻止我的只有星期二的定期系统维护
+10=去泡温泉吧!
+11=声优警察出动!
+12=魔法少女 Lovely Hurt♡
+13=同人志展售会也包在Hacka Doll身上
+
+
+[Descripton]
+为了让烦恼的人类有所进步而诞生的个人娱乐AI「Hacka Doll」。
+虽然是中古品却无法令人憎恨的「Hacka Doll」，努力地解决著各种各样人们的烦恼！
+今天是偶像！明天是便利店员！后天是工程师！接下来是动画制作进行……再接下来是魔法少女！？
+「个人娱乐AI Hacka Doll，会来解决你的烦恼喔！」

@@ -1,0 +1,24 @@
+[Info]
+Resolution=1920x1080
+AudioEncoding=flac
+VedioEncoding=x265
+AudioLanguage=Japanese
+StreamSource=BDRip
+
+
+[Publish]
+Type=Movie
+Release=20170826
+Developer=SILVER LINK.
+StreamProvider=VCB-Studio
+SubtitleProvider=Unknown
+
+
+[Title]
+En=Fate Kaleid Liner Prisma Illya Sekka no Chikai
+Jp=プリズマ☆イリヤ 雪下の誓い
+Zh=雪下的誓言
+
+
+[Descripton]
+Todo..
