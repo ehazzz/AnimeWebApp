@@ -1,0 +1,11 @@
+[IP]
+127.0.0.1
+
+[Port]
+80
+
+[AssetDirectory]
+C:\Users\oneha\source\repos\AnimeWebApp\AnimeWebApp\Asset\
+
+[AnimeDirectory]
+C:\Users\oneha\source\repos\AnimeWebApp\AnimeWebApp\AnimeSample\

@@ -1,0 +1,49 @@
+[Info]
+Resolution=1920x1080
+AudioEncoding=flac
+VedioEncoding=x265
+AudioLanguage=Japanese
+StreamSource=BDRip
+
+
+[Publish]
+Type=TV
+Release=20170702
+Developer=SILVER LINK
+StreamProvider=VCB-Studio
+SubtitleProvider=喵萌奶茶屋
+
+
+[Title]
+En=Battle Girl High School
+Jp=バトルガール ハイスクール
+Zh=战斗女子高校
+
+
+[Episode]
+Count=12
+01=我们会努力的！
+02=这里是笑点吗？
+03=度假胜地×合宿×逃跑？
+04=在歌声中寄托心意
+05=鸢尾花的花语
+06=莲华是胡桃 胡桃是莲华
+07=守护之力
+08=星守们的休息日
+09=神树祭
+10=家族
+11=真实
+12=牵绊
+
+
+[Descripton]
+公元2045年
+世界因突如其来的迷之侵略者『伊洛斯』之手而遭到污染
+人类在他们的活动范围内只能苟延残喘
+而果敢地面对侵略者的是既没有强力的军队也没有武器的随处可见的普通女孩
+『神树峰女子学园』
+这所背负着『星守』（保护星星）与『伊洛斯』战斗命运的学园
+将赶去赴任的您
+与少女们一起 目标是将被污染的大地夺回
+然而今天，在风和日丽的校庭
+预示着教学开始的铃声响彻于空……

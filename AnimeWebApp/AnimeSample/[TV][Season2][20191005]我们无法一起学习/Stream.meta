@@ -1,0 +1,46 @@
+[Info]
+Resolution=1920x1080
+AudioEncoding=flac
+VedioEncoding=x265
+AudioLanguage=Japanese
+StreamSource=BDRip
+
+
+[Publish]
+Type=TV
+Release=20191005
+Developer=st Silver&ARVO ANIMATION
+StreamProvider=VCB-Studio
+SubtitleProvider=Nekomoe kissaten
+
+
+[Title]
+En=Bokutachi wa Benkyou ga Dekinai
+Jp=ぼくたちは勉強ができない
+Zh=我们无法一起学习
+
+
+[Episode]
+Count=14
+01=天才与他对[x]的判定各怀忧虑
+02=先人的骄傲有时会与[x]等人的情形相违背
+03=天才因变迁的季节与[x]的状况而忧郁
+04=天才偶尔会为了被限定的[x]奋斗
+05=尽心的礼物有时会成为[x]的复杂困扰
+06=彼辈安知眼前[x]之志
+07=天才私下对他们的猜测进行[x]
+08=行进的[x]流淌不绝…
+09=将最爱的星命名为[x]（前篇）
+10=将最爱的星命名为[x]（后篇）
+11=祭典的开始[x]接连不断向他们袭来
+12=祭典喧嚣不止当中[x]们前往荆棘之路
+13=祭典的结束即使寂寞也要华丽地为[x]们献上祝福
+14=(OVA02)礼拜堂的钟声祝福[x]
+
+
+[Descripton]
+总是获得顶尖成绩的唯我成幸
+是一位不太懂学习要领、且不擅于记东西的学生，透过比别人数倍努力的方式取得顶尖的成绩。
+家境贫苦的他，为了就读大学必须要拿到可以免除学费的「特别VIP推荐资格」。
+前往面试的成幸，却得到了一个莫名其妙的条件
+他想获得资格的话，必须教导两位「天才少女」考上志愿学校——

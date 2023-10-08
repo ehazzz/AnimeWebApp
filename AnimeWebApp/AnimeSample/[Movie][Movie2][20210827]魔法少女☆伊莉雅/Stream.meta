@@ -1,0 +1,24 @@
+[Info]
+Resolution=1920x1080
+AudioEncoding=flac
+VedioEncoding=x265
+AudioLanguage=Japanese
+StreamSource=BDRip
+
+
+[Publish]
+Type=Movie
+Release=20210827
+Developer=SILVER LINK.
+StreamProvider=VCB-Studio
+SubtitleProvider=Mabors-Sub
+
+
+[Title]
+En=Fate Kaleid Liner Prisma Illya Licht Namae no Nai Shoujo
+Jp=Fate/kaleid liner プリズマ☆イリヤ
+Zh=魔法少女伊莉雅：无名的少女
+
+
+[Descripton]
+Todo..
